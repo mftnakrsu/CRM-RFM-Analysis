@@ -21,13 +21,13 @@ This project will guide you through the steps of data understanding, preparation
 Let's get started with the project steps!
 
 ## Project Steps
-1. [Business Problem]
-2. [Data Understanding]
-3. [Data Preparation]
-4. [Calculating RFM Metrics]
-5. [Calculating RFM Scores]
-6. [Creating & Analysing RFM Segments]
-7. [Functionality of the Whole Process]
+1. Business Problem
+2. Data Understanding
+3. Data Preparation
+4. Calculating RFM Metrics
+5. Calculating RFM Scores
+6. Creating & Analysing RFM Segments
+7. Functionality of the Whole Process
 
 ## Dataset Story
 
